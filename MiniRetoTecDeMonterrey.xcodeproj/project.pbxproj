@@ -1,0 +1,67 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXGroup section */
+		10BDA4B11CE921D700EC52A4 = {
+			isa = PBXGroup;
+			children = (
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		10BDA4B21CE921D700EC52A4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+			};
+			buildConfigurationList = 10BDA4B51CE921D700EC52A4 /* Build configuration list for PBXProject "MiniRetoTecDeMonterrey" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 10BDA4B11CE921D700EC52A4;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		10BDA4B61CE921D700EC52A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		10BDA4B71CE921D700EC52A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		10BDA4B51CE921D700EC52A4 /* Build configuration list for PBXProject "MiniRetoTecDeMonterrey" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				10BDA4B61CE921D700EC52A4 /* Debug */,
+				10BDA4B71CE921D700EC52A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 10BDA4B21CE921D700EC52A4 /* Project object */;
+}
